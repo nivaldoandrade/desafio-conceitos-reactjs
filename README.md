@@ -8,7 +8,7 @@ Desenvolvendo a aplicação que irá armazenar repositórios do portfólio, que 
 # clonar o repositório
 git clone https://github.com/nivaldoandrade/desafio-conceitos-reactjs
 
-# Instalar as dependência
+# Instalar as dependências
 yarn
 
 # Iniciar a aplicação
